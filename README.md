@@ -2,4 +2,5 @@
 <img src="https://komarev.com/ghpvc/?username=deadratch&label=hello&color=ffa98a" >
   </p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/dccdc493-1f27-4544-a9be-86a0a79150c6" width="450" </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/f662ada1-abf2-43e5-a40b-96a04f7547a2"
+width="850" </p>
