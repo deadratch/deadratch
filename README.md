@@ -4,3 +4,7 @@
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/e2f4724e-f055-4405-9ced-5762840375f5"
 width="670" </p>
+
+<p align="center">
+  $\color{#d7a0a9}{\textsf{" 𝚠𝚑𝚎𝚗 𝙸 𝚎𝚡𝚙𝚕𝚊𝚒𝚗𝚎𝚍 𝚝𝚑𝚎 𝚏𝚊𝚌𝚝 𝚝𝚑𝚊𝚝 𝙸 𝚠𝚊𝚜 𝚜𝚊𝚝𝚒𝚜𝚏𝚒𝚎𝚍 . "}}$
+</p>
